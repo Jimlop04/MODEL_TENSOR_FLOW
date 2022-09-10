@@ -1,8 +1,12 @@
-# Fotos de los edificios
+# IMPLEMENTACIÓN DE MODEL TENSOR FLOW EN APLICACION ANDROID 
 
+#Edificio "Pecuarias"
+![Pecuarias](https://user-images.githubusercontent.com/87384300/189471201-916e238b-5cfe-4066-a4b2-72978c046a02.jpeg)
+#Edificio "Agrarias"
+![agrarias](https://user-images.githubusercontent.com/87384300/189471216-465e9ced-d0d5-4168-b389-bfb789c590ce.jpeg)
+#Edificio "Biblioteca"
+![biblioteca](https://user-images.githubusercontent.com/87384300/189471227-1df82a99-d8fe-42a1-9dc8-4cfaec35179b.jpeg)
 
-
-# Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
 This folder contains the code for the TensorFlow Lite codelab:
 
