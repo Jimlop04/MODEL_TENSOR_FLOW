@@ -1,12 +1,12 @@
 # IMPLEMENTACIÓN DE MODEL TENSOR FLOW EN APLICACION ANDROID 
 
-# Edificio "Pecuarias"
+# Edificio "Facultad de Ciencias Pecuarias"
 ![Pecuarias](https://user-images.githubusercontent.com/87384300/189471201-916e238b-5cfe-4066-a4b2-72978c046a02.jpeg)
 
-# Edificio "Agrarias"
+# Edificio "Facultad de Ciencias Agrarias"
 ![agrarias](https://user-images.githubusercontent.com/87384300/189471216-465e9ced-d0d5-4168-b389-bfb789c590ce.jpeg)
 
-# Edificio "Biblioteca"
+# Biblioteca UTEQ
 ![biblioteca](https://user-images.githubusercontent.com/87384300/189471227-1df82a99-d8fe-42a1-9dc8-4cfaec35179b.jpeg)
 
 
